@@ -1,0 +1,27 @@
+body{
+    background-image: url("");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.logo{
+    font-family: 'PT Serif', serif;
+}
+
+.fondo-1{
+    background: white;
+    background-image: url("../images/dep_1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.fondo-2{
+    background:rgb(120, 147, 173);
+    opacity: 0.8;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
